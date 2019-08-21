@@ -1,6 +1,6 @@
 # 浏览器icons
 
-包含Firefox、chrome、opera、edge、Safari
+包含Firefox、chrome、opera、edge、Safari 适用于MacOS
 
 以下是图标预览：
 ![](pic/chrome.png)
